@@ -25,3 +25,7 @@ console.log("x**2=",e);
 //(%=)
 let f=(x%=y);
 console.log("x%y=",f);
+
+//(/=)
+let g=(x/=y);
+console.log("x/y=",g);
