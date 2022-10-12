@@ -1,0 +1,27 @@
+// =operator
+let a=10;
+a=15;
+console.log(a);
+
+//(+=)
+let x=10;
+let y=5;
+let b=(x+=y);
+console.log('x+=y',b);
+
+//(-=)
+let c=(x-=y);
+console.log('x-=y',c);
+
+
+// (*=)
+let d = (x *= y);
+console.log("x *= y", d);
+
+//(**=)
+let e=(x**=2);
+console.log("x**2=",e);
+
+//(%=)
+let f=(x%=y);
+console.log("x%y=",f);
