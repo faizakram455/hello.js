@@ -1,0 +1,17 @@
+
+// var
+var a=10;
+a=6;
+console.log(a);
+
+ 
+// let
+let b=10;
+b=12;
+console.log(b);
+
+
+//const
+const c=10;
+// c=13;
+console.log(c);
