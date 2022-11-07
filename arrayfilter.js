@@ -54,6 +54,5 @@ const output5 = arr5.filter((num,index,arr)=>
     arr5[index] = arr5[index] +20;
     console.log(arr5[index]);
 })
-console.log(output5);
-Footer
-© 2022 GitHub, Inc.
+console.log(output5):
+
